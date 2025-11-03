@@ -61,8 +61,7 @@ Plateful is built with a modern, mobile-first tech stack designed for a responsi
 
 * Successfully creating a seamless, end-to-end workflow from AI-driven meal plan generation to a verified Kroger grocery cart with a single click.
 * Building a sophisticated RAG pipeline that truly learns from user behavior, making meal planning increasingly personalized and effective with each use.
-* Implementing a genuinely context-aware voice companion that provides a hands-free cooking experience that feels natural and truly helpful, not robotic.
-
+* Implementing a genuinely context-aware voice companion that provides a hands-free cooking experience that feels natural and truly helpful.
 ---
 
 ## What we learned
